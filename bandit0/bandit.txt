@@ -1,4 +1,5 @@
 username    pass
+
 bandit0     bandit0
 bandit1     ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If 
 bandit2     263JGJPfgU6LtdEvgfWU1XP5yac29mFx
@@ -14,3 +15,5 @@ bandit11    dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 bandit12    7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 bandit13    FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 bandit14    MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+bandit15    8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+bandit16    kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
